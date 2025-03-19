@@ -1,18 +1,9 @@
-# "You Are Important" Interactive Fiction Game
-
+# "You Are Important" Interactive Website Game
 "You Are Important" is a web-based interactive fiction game where players make choices that lead to different story branches. The game delivers a core message: everyone is important—not because of what we do, but because of who we are.
 
 ## Game Theme
 
 Through everyday life scenarios and choices, the game helps players discover their own value and their impact on others. Each decision leads to different emotional experiences and realizations, ultimately reaching a positive ending.
-
-## Game Features
-
-- Multi-branch choice-driven storyline
-- Personalized endings based on different choices
-- Simple yet aesthetically pleasing interface design
-- Thought-provoking story content
-- A comforting and heartwarming game experience
 
 ## Technical Implementation
 
